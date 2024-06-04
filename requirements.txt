@@ -1,0 +1,4 @@
+requests
+crewai
+langchain
+langchain-google-genai
